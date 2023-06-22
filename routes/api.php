@@ -16,7 +16,7 @@ use App\Http\Controllers\BaseController;
 | is assigned the "api" middleware group. Enjoy building your API!
 |
 */
-
+// api s 
 /** ---------Register and Login ----------- */
 Route::controller(RegisterController::class)->group(function()
 {
